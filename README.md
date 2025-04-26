@@ -16,4 +16,5 @@ Single-player mode against basic AI.
 Programming Language:HTML,CSS,JS.
 
 📢 Contributing
+
 Pull requests are welcome! If you have suggestions or improvements, feel free to fork the repo and create a PR.
