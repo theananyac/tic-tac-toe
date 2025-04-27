@@ -18,5 +18,3 @@ Programming Language:HTML,CSS,JS.
 📢 Contributing
 
 Pull requests are welcome! If you have suggestions or improvements, feel free to fork the repo and create a PR.
-
-Game link: http://127.0.0.1:5501/
